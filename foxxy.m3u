@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Sports",
-http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8 
+http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=1f4aafad2573701bb792e8d52f5a057c6434166c-d4eba402f852d2bae68a8559810943ab-1776085184-1776081584
