@@ -1,4 +1,4 @@
 #EXTM3U
-#owner: Md jakariya khan
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Sports",
 http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8 
